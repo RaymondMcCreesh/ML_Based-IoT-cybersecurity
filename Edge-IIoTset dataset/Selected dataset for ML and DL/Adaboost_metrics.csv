@@ -1,0 +1,36 @@
+Metric,Value
+Accuracy,0.789919028340081
+Precision (macro),0.38242013597876723
+Recall (macro),0.41169092307462385
+F1-score (macro),0.39174717990444796
+AUC-ROC (macro),0.7925773134689325
+Precision (Analysis),0.0
+Recall (Analysis),0.0
+F1-score (Analysis),0.0
+Precision (Backdoor),0.0
+Recall (Backdoor),0.0
+F1-score (Backdoor),0.0
+Precision (DoS),0.15122873345935728
+Recall (DoS),0.20253164556962025
+F1-score (DoS),0.17316017316017318
+Precision (Exploits),0.5434262948207171
+Recall (Exploits),0.610381861575179
+F1-score (Exploits),0.5749613601236476
+Precision (Fuzzers),0.5196879643387816
+Recall (Fuzzers),0.7767906718489728
+F1-score (Fuzzers),0.6227464945470732
+Precision (Generic),0.9840464104423495
+Recall (Generic),0.963265306122449
+F1-score (Generic),0.9735449735449734
+Precision (Normal),0.995915927881263
+Recall (Normal),0.8969229389073293
+F1-score (Normal),0.9438308316812991
+Precision (Reconnaissance),0.4257075471698113
+Recall (Reconnaissance),0.3392857142857143
+F1-score (Reconnaissance),0.37761506276150625
+Precision (Shellcode),0.20418848167539266
+Recall (Shellcode),0.3277310924369748
+F1-score (Shellcode),0.25161290322580643
+Precision (Worms),0.0
+Recall (Worms),0.0
+F1-score (Worms),0.0
